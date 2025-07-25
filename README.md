@@ -1,99 +1,47 @@
-# 👋 Meet Sai Sharmi — Your Future Data Analyst
+# 🌟 Sai Sharmi's GitHub Portfolio
 
-<div align="center">
+Welcome to my personal GitHub space!  
+I'm a final-year Computer Science student with a growing passion for Data Science, Java Full Stack Development, and an undying love for Psychology and Neuropsychology.
 
-**💻 B.Tech CSE Student | 📊 Data Enthusiast | ☁️ Cloud Explorer**  
-*Fueled by curiosity, clean code, and the power of storytelling through data*  
-📍 **India**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-sharmi-gade-55710828b)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sai-sharmi-gade)
-
-</div>
+This repository serves as a curated collection of my projects, learning journeys, and personal experiments. Whether you're a recruiter, a fellow learner, or just curious—feel free to explore!
 
 ---
 
-## 🎯 About Me
+## 👩‍💻 About Me
 
-I'm a passionate **Data Analyst** in the making, currently pursuing B.Tech in Computer Science Engineering. I love exploring how data can transform decisions, reveal patterns, and drive real-world impact.
-
-💡 What drives me:  
-- 🔍 Uncovering insights from complex datasets  
-- 📈 Crafting meaningful data visualizations  
-- 🐍 Writing elegant Python code for data tasks  
-- ☁️ Using cloud tools to build scalable solutions  
-- 🛠️ Learning by building, always hands-on  
+- 🎓 Final Year B.Tech - Computer Science & Engineering  
+- 💼 Preparing for placements in IBM, Tech Mahindra, and LTIMindtree  
+- 💡 Interested in Data Analysis, Java Full Stack
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Key Projects
 
-### **Languages & Libraries**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+| Project | Description |
+|--------|-------------|
+| **Netflix Data Analytics** | Insights and trends extracted from Netflix viewing data using Python and visualization tools. |
+| **Hyderabad Rent Predictor** | A housing rental price prediction model using regression algorithms. |
+| **Human Stress Detection** | ML-based analysis of sleep and lifestyle data to detect stress levels. |
 
-### **Visualization & Analysis**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-
-### **Cloud & Tools**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+More projects inside their respective folders 📂
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Skills & Tools
 
-### 📺 Netflix Content Analysis
-> *Comprehensive EDA revealing content trends and audience preferences*
-- 🔍 Explored global content patterns across years and genres  
-- 📊 Analyzed distribution by region, type, and release date  
-- 📝 Derived insights into Netflix’s content strategy  
-
----
-
-### 🏠 Hyderabad Rent Prediction `🔄 In Progress`
-> *Predicting house rents using data analysis and machine learning*
-- 🔍 Analyzed Hyderabad's real estate trends through EDA  
-- 🧠 Engineered features like location, amenities, and property types  
-- 📈 Building regression models to predict rent prices accurately  
+- **Languages**: Python, Java, C  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Frameworks**: Spring Boot (learning), Bootstrap  
+- **Tools**: Git, GitHub, Google Colab, VS Code  
+- **Concepts**: Data Cleaning, EDA, SQL, DSA, OOPs
 
 ---
 
-### 😴 Stress Detection via Sleep Patterns `📋 Planned`
-> *ML project detecting human stress based on sleep data*
-- 🧪 Collecting behavioral data and sleep patterns  
-- 🔬 Exploring correlations and building a predictive model  
-- 📊 Goal: Provide actionable mental wellness insights  
+## 📬 Connect with Me
+
+- 📧 [Email](mailto:saisharmigade@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/sai-sharmi-gade-55710828b)
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Sai Sharmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sai-sharmi-gade&show_icons=true&theme=default&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-sharmi-gade&layout=compact&theme=default&hide_border=true)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sai-sharmi-gade&theme=default&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-I'm always excited to discuss **data analysis**, **cloud tools**, or just geek out over cool tech ideas. Whether it’s collaboration, conversation, or contribution—hit me up!
-
-**📧 Open to:** Data Roles • Internships • Collaborations • Mentorship
-
-<div align="center">
-
-*"Data is the new oil, but insights are the refined fuel that drives decisions."*  
-⭐ **Star my repositories if you find them helpful!** ⭐
-
-</div>
+> _"Every line of code I write today is building a bridge_
