@@ -1,7 +1,7 @@
 # 🌟 Sai Sharmi's GitHub Portfolio
 
 Welcome to my personal GitHub space!  
-I'm a final-year Computer Science student with a growing passion for Data Science, Java Full Stack Development, and an undying love for Psychology and Neuropsychology.
+I'm a final-year Computer Science student with a growing passion for Data Science, Python Development skills, and an undying love for Psychology and it's facts.
 
 This repository serves as a curated collection of my projects, learning journeys, and personal experiments. Whether you're a recruiter, a fellow learner, or just curious—feel free to explore!
 
@@ -11,7 +11,7 @@ This repository serves as a curated collection of my projects, learning journeys
 
 - 🎓 Final Year B.Tech - Computer Science & Engineering  
 - 💼 Preparing for placements actively  
-- 💡 Interested in Data Analysis, Java Full Stack
+- 💡 Interested in Data Analysis, Python Developer
 
 ---
 
@@ -29,11 +29,10 @@ More projects inside their respective folders 📂
 
 ## 🚀 Skills & Tools
 
-- **Languages**: Python, Java, C  
+- **Languages**: Python, C, Java
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Frameworks**: Spring Boot (learning), Bootstrap  
-- **Tools**: Git, GitHub, Google Colab, VS Code  
-- **Concepts**: Data Cleaning, EDA, SQL, DSA, OOPs
+- **Tools**: GitHub, Google Colab, VS Code, Jupyter
+- **Concepts**: Data Cleaning, EDA, SQL, DSA, OOPs concepts
 
 ---
 
