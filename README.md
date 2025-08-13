@@ -10,7 +10,7 @@ This repository serves as a curated collection of my projects, learning journeys
 ## 👩‍💻 About Me
 
 - 🎓 Final Year B.Tech - Computer Science & Engineering  
-- 💼 Preparing for placements in IBM, Tech Mahindra, and LTIMindtree  
+- 💼 Preparing for placements actively  
 - 💡 Interested in Data Analysis, Java Full Stack
 
 ---
